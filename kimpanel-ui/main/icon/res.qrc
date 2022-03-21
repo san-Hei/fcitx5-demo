@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/kimpanel/prefix">
+        <file>fullwidth-active.png</file>
+        <file>fullwidth-inactive.png</file>
+        <file>punc-active.png</file>
+        <file>punc-inactive.png</file>
+    </qresource>
+</RCC>
